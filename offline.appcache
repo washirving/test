@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1486751464
+#1486760479
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -11,7 +11,6 @@ icon-256.png
 loading-logo.png
 p.json
 photoids.txt
-jquery.xdomainajax.js
 xd_connection.js
 NETWORK:
 *
